@@ -39,16 +39,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/vikky-10/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vikky singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikky-10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/vikky-singh-kr/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vikky singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vikky-singh-kr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikky-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky-10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vikky-singh-kr/github-readme-stats"><img alt="vikky singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikky-singh-kr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vikky-singh-kr/github-readme-stats"><img alt="vikky singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky-singh-kr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vikky-10/github-readme-activity-graph"><img alt="vikky singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikky-10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vikky-singh-kr/github-readme-activity-graph"><img alt="vikky singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikky-singh-kr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vikky-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/vikky-singh-kr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vikkysingh_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_vikkysingh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
@@ -73,7 +73,7 @@
 
 ## ❤ Followers
  
-<a href="https://github.com/vikky-10?tab=followers"><img src="https://img.shields.io/github/followers/vikky-10?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vikky-singh-kr?tab=followers"><img src="https://img.shields.io/github/followers/vikky-singh-kr?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
